@@ -5,7 +5,7 @@ The aim of this task is to provide proof of your technical abilities and materia
 1. Provide a sample of your work for us to review
 2. Write and submit some new code matching specifications described below
 
-In either case, you can submit your code by sharing access to a git repo. We will evaluate the code as if it is going to a production app, so bear that in mind with your submission.
+In either case, you can submit your code by sharing access to a git repo. We will evaluate the code as if it is going to a production app, so bear that in mind with your submission. Our team will review your code, and either progress you onto the technical interview or provide feedback as to why you are not continuing from this point.
 
 # 1. Providing a sample
 
