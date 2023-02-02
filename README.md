@@ -23,7 +23,7 @@ If you don't have any recent code that you'd like to share with us, you may inst
 
 ## The assignment
 
-ResQ Club employees love animals, and require easy access to cute cat pictures at all times. To fulfil this critical business need, please implement an MVP for the "ResQ Cat Club" app. The requirements for the app are as follows,
+ResQ Club employees love animals, and require easy access to cute cat pictures at all times. To fulfil this critical business need, please implement an MVP for the "ResQ Cat Club" app. The requirements for the app are as follows:
 
 ### Must have
 
