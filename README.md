@@ -19,7 +19,7 @@ Along with your code, please provide some extra context for the sample. We'd lik
 
 # 2. Submitting new code
 
-If you don't have any recent code that you'd like to share with us, you may instead implement new code for the following assignment. You should not spend more than 2 - 3 hours on this assignment, it is okay not to complete everything and to leave some requirements unfulfilled. You may indicate in your submission if there are things you didn't have time for, or would change if you had more time.
+If you don't have any recent code that you'd like to share with us, you may instead implement new code for the following assignment. You should not spend more than 2 - 3 hours on this assignment, it is okay not to complete everything and to leave some requirements unfulfilled. You may indicate in your submission if there are things you didn't have time for, or would change if you had more time. Any extra notes on your thought process, plans or challenges are welcome too.
 
 ## The assignment
 
